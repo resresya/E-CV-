@@ -9,8 +9,8 @@ PROFILE = {
     "name": "Resya Sahroni Putri",
     "role": "Mahasiswa S1 Sistem Informasi",
     "university": "Universitas Bina Sarana Informatika Yogyakarta",
-    "email": "email-kamu@example.com",  # Ganti dengan emailmu
-    "whatsapp": "",  # Opsional: https://wa.me/628xxxxxxxxxx
+    "email": "@resyaputri889@gmail.com",  # Ganti dengan emailmu
+    "whatsapp": "0895392711467",  # Opsional: https://wa.me/628xxxxxxxxxx
     "about": (
         "Mahasiswa Program Studi Sistem Informasi Universitas Bina Sarana Informatika Yogyakarta "
         "yang memiliki minat pada pengembangan sistem informasi, basis data, dan teknologi digital. "
